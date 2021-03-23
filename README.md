@@ -6,6 +6,7 @@ A utility tool for Instagram with pre-set features in order to increase recognit
 This Instagram script uses InstaPy and will go through multiple processes on your account
 
 **Features**
+
 -Specifically looks for small accounts and will like their most recent post (high chances of getting a follow)
 
 -10% chance of following found user, unfollows the user after 10-20 minutes if they do not follow back (randomised from 1-5 users at a time)
