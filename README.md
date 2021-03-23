@@ -15,3 +15,15 @@ This Instagram script uses InstaPy and will go through multiple processes on you
  
 Every process is executed within 10-25 seconds in order to avoid Instagram detection, however this is not guranteed. 
 It is recommended to leave this running when you are away in order to get the best use out of this.
+
+# Setup
+
+**Windows**
+
+Create a folder with the python script in, open command prompt from that folder.
+
+-> pip install instapy
+
+Go to main.py and edit 'myusername' and 'mypassword' to your credentials
+
+Run script
