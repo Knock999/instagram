@@ -33,3 +33,21 @@ Create a folder with the python script in, open command prompt from that folder.
 Go to main.py and edit 'myusername' and 'mypassword' to your credentials
 
 Run script
+
+# Results
+
+I don't know, I'm not desperate for social media attention, figure out the statistics yourself :)
+
+# Note
+
+I am not responsible for anything that happens to your account or the actions you perform with this script. You have been warned.
+
+# Screenshots
+
+**Before**
+![image](https://user-images.githubusercontent.com/66756972/112157288-fbe4ab80-8bde-11eb-9484-d856341aac75.png)
+
+**After**
+![image](https://user-images.githubusercontent.com/66756972/112157337-04d57d00-8bdf-11eb-9cd1-ff8801f58869.png)
+
+
